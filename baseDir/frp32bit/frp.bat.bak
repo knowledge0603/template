@@ -1,0 +1,13 @@
+set JAVA_HOME=G:\work\20201112\setup\setup\bin\Debug\openjdk
+set PATH=%JAVA_HOME%\bin;%PATH%
+java -jar client.jar 
+
+
+
+
+
+
+
+
+
+
